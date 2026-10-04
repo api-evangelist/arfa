@@ -1,0 +1,21 @@
+{
+  "repo": "arfa",
+  "feeds": [
+    {
+      "source": "https://arfatechnologies.com/privacy-policy/",
+      "feed_url": "https://arfatechnologies.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://arfatechnologies.com/feed/",
+      "feed_url": "https://arfatechnologies.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 9,
+  "fetched": "2026-10-03T12:30:02Z"
+}
