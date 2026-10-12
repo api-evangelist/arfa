@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/arfa/integrations
+- https://n8n.io/integrations/arfa/
+- https://composio.dev/toolkits/arfa
+- https://monid.ai/tools/arfa
+checked:
+- https://composio.dev/toolkits/arfa
+- https://monid.ai/tools/arfa
+- https://n8n.io/integrations/arfa/
+- https://zapier.com/apps/arfa/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
